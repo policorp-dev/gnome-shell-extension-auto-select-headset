@@ -1,0 +1,23 @@
+gnome-shell-extension-auto-select-headset (12.0.0-Policorp-1) stable; urgency=medium
+
+  * updated version
+
+ -- Edson Juliano Drosdeck <edson@policorp.com.br>  Tue, 05 Aug 2025 12:23:33 +0000
+
+gnome-shell-extension-auto-select-headset (7.0.0-Policorp-3) stable; urgency=medium
+
+  * changed maintainer
+
+ -- Edson Juliano Drosdeck <edson@policorp.com.br>  Mon, 05 Aug 2024 15:47:14 -0300
+
+gnome-shell-extension-auto-select-headset (7.0.0-Policorp-2) stable; urgency=medium
+
+  * Hardcode to model essx8326
+
+ -- Edson Juliano Drosdeck <edson@policorp.com.br>  Mon, 29 Jul 2024 19:27:35 +0000
+
+gnome-shell-extension-auto-select-headset (7.0.0-Policorp-1) stable; urgency=medium
+
+  * Initial Release
+
+ -- OEM Polilinux <oem_support@polilinux.com.br>  Tue, 05 Dec 2023 10:14:32 -0300
